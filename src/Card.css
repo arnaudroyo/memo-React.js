@@ -1,9 +1,9 @@
 
 .memory > .card {
-  font-size: 2em;
+  font-size: 1.9em;
   flex: 1 1 calc(100% / 6 - 0.4em);
   outline: 0.08em solid silver;
-  margin: 0.2em;
+  margin: 0.13em;
   display: flex;
   cursor: default;
 }
